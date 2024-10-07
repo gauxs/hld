@@ -5,7 +5,7 @@
 ### Storing Data
 ### Encoding Data
 
-## 📌 Core - Understanding Data (Multi Machine)
-### Replication
-### Partition
+## 📌 Core - Understanding Data (Multi Machine - Distributed)
+### Replicating Data
+### Partitioning Data
 
