@@ -10,6 +10,7 @@
 ### Partitioning Data
 
 ## Algorithms
+### Paxos
 
 ## Components
 ### Heartbeat
@@ -21,6 +22,11 @@
 ## TradeOffs
 
 ## Architectural Patterns
+
+## Interview Questions
+### Easy
+### Medium
+### Hard
 
 ## Resources
 ### Youtube
