@@ -1,5 +1,5 @@
 # System Design
-## 📌 Core - Understanding Data (Signle Machine)
+## 📌 Core - Understanding Data (Single Machine)
 ### Schema of the data and its impact
 ### Querying Data
 ### Storing Data
