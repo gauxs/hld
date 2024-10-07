@@ -9,3 +9,22 @@
 ### Replicating Data
 ### Partitioning Data
 
+## Algorithms
+
+## Components
+### Heartbeat
+
+## Building Blocks
+### Message Queue
+### Service Discovery
+
+## TradeOffs
+
+## Architectural Patterns
+
+## Resources
+### Youtube
+### Blogs
+### Paper
+### Articles
+### Books
